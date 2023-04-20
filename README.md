@@ -36,16 +36,14 @@ As a junior developer, I'm on a continous journey to enhance my skills and knowl
   </tbody>
 </table>
 
+<br /><br />
 ### 📚 Education
 * Bachelor of Science in Information Technology
 
-<br />
-<br />
+<br /><br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ivillahermosa&theme=radical">
-
-<br />
-<br />
+### ⚡ Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ivillahermosa&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivillahermosa&theme=radical">
 
 
